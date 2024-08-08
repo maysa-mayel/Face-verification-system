@@ -9,7 +9,7 @@ This project is a real-time face verification system utilizing DeepFace with Arc
 - API endpoint for face verification
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Flask (for API)
 - DeepFace
 - Other dependencies listed in `requirements.txt`
